@@ -1,11 +1,16 @@
 _repo: Recipes-Tried-and-True_1084
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: First Presbyterian Church (Marion, Ohio). Ladies' Aid Society
     gutenberg_agent_id: '533'
     url: http://www.gutenberg.org/2009/agents/533
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1084#Recipes-Tried-and-True
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '1997-10-01'
 gutenberg_type: Text
